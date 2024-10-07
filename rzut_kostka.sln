@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rzut_kostka", "rzut_kostka\rzut_kostka.csproj", "{672F708D-6928-4720-99C0-6E944B2C4809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{672F708D-6928-4720-99C0-6E944B2C4809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672F708D-6928-4720-99C0-6E944B2C4809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672F708D-6928-4720-99C0-6E944B2C4809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672F708D-6928-4720-99C0-6E944B2C4809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {942450EF-8007-4AA8-B239-09848924E6CA}
+	EndGlobalSection
+EndGlobal
